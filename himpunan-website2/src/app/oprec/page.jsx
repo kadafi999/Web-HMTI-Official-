@@ -271,8 +271,8 @@ export default function OprecPage() {
           Pendaftaran Sedang Ditutup
         </h1>
         <p className="mt-3 text-sm leading-relaxed text-slate-500 sm:text-base">
-          Lorem ipsum dolor sit amet, consectetur adipiscing elit sed do eiusmod tempor
-          incididunt ut labore et dolore magna aliqua.
+          Open Recruitment saat ini sedang ditutup. Pantau terus media sosial resmi kami
+          untuk mendapatkan informasi terbaru mengenai jadwal pembukaan pendaftaran berikutnya.
         </p>
       </div>
     );
@@ -359,8 +359,8 @@ export default function OprecPage() {
             Open Recruitment Himpunan Mahasiswa
           </h1>
           <p className="mx-auto mt-4 max-w-xl text-sm text-slate-300 sm:text-base">
-            Lorem ipsum dolor sit amet, consectetur adipiscing elit sed do eiusmod tempor
-            incididunt ut labore et dolore magna aliqua.
+            Jadilah bagian dari gerakan mahasiswa yang berdampak. Isi formulir di bawah ini
+            dengan lengkap dan benar untuk mendaftarkan diri kamu sebagai calon anggota himpunan.
           </p>
         </div>
       </section>

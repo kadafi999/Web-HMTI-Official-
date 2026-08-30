@@ -13,21 +13,21 @@ const FALLBACK_PROJECTS = [
     id: 'dummy-1',
     title: 'Seminar Nasional Kepemimpinan',
     division_name: 'BPH',
-    background: 'Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do eiusmod tempor incididunt ut labore.',
+    background: 'Seminar bertema kepemimpinan adaptif yang menghadirkan narasumber dari kalangan profesional dan akademisi, dirancang untuk menginspirasi mahasiswa menjadi pemimpin masa depan.',
     photos_urls: [],
   },
   {
     id: 'dummy-2',
     title: 'Pelatihan Desain & Media Kreatif',
     division_name: 'KOMINFO',
-    background: 'Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo.',
+    background: 'Program pelatihan intensif desain grafis dan konten digital yang membekali anggota dengan keterampilan kreatif untuk mendukung publikasi dan branding himpunan.',
     photos_urls: [],
   },
   {
     id: 'dummy-3',
     title: 'Riset Kepuasan Mahasiswa',
     division_name: 'LITBANG',
-    background: 'Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.',
+    background: 'Kegiatan penelitian dan pengumpulan data terkait tingkat kepuasan mahasiswa terhadap layanan akademik dan fasilitas kampus guna menjadi bahan rekomendasi kebijakan.',
     photos_urls: [],
   },
 ];
@@ -87,8 +87,8 @@ export default async function HomePage() {
               <span className="block text-slate-300">Bergerak, Berkarya, Berdampak.</span>
             </h1>
             <p className="mx-auto mt-6 max-w-xl text-base leading-relaxed text-slate-300 sm:text-lg">
-              Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do eiusmod tempor
-              incididunt ut labore et dolore magna aliqua ut enim ad minim veniam.
+              Himpunan Mahasiswa Teknik Informatika hadir sebagai ruang tumbuh, belajar, dan berkarya bagi
+              seluruh mahasiswa. Bersama kami, setiap ide dan semangat akan menjadi dampak nyata.
             </p>
 
             <div className="mt-9 flex flex-col items-center justify-center gap-3 sm:flex-row">
@@ -135,13 +135,13 @@ export default async function HomePage() {
               "Mari tumbuh bersama, berkarya untuk sesama."
             </h2>
             <p className="mt-5 text-sm leading-relaxed text-slate-600 sm:text-base">
-              Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do eiusmod tempor
-              incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud
-              exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
+              Assalamu'alaikum, rekan-rekan mahasiswa. Bergabung dalam himpunan bukan sekadar
+              mendapatkan pengalaman organisasi — ini adalah kesempatan untuk membentuk karakter,
+              membangun jejaring, dan berkontribusi nyata bagi lingkungan akademik kita bersama.
             </p>
             <p className="mt-4 text-sm leading-relaxed text-slate-600 sm:text-base">
-              Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu
-              fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident.
+              Mari kita jadikan setiap program kerja sebagai momentum untuk tumbuh, setiap aspirasi
+              sebagai bahan evaluasi, dan setiap kolaborasi sebagai pondasi menuju masa depan yang lebih baik.
             </p>
             <div className="mt-6">
               <p className="text-sm font-semibold text-[#0F172A]">Nama Ketua Himpunan</p>
@@ -221,7 +221,7 @@ export default async function HomePage() {
                 Ingin tahu lebih jauh tentang kami?
               </h3>
               <p className="mt-1 text-sm text-slate-300">
-                Lorem ipsum dolor sit amet, consectetur adipiscing elit sed do eiusmod tempor.
+                Kenali visi, misi, sejarah, dan seluruh divisi yang membentuk Himpunan Mahasiswa Teknik Informatika.
               </p>
             </div>
           </div>

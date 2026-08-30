@@ -85,8 +85,8 @@ export default async function StrukturPage() {
             Jajaran Pengurus Himpunan
           </h1>
           <p className="mx-auto mt-4 max-w-xl text-sm text-slate-300 sm:text-base">
-            Lorem ipsum dolor sit amet, consectetur adipiscing elit sed do eiusmod tempor
-            incididunt ut labore et dolore magna aliqua.
+            Berikut adalah daftar lengkap pengurus aktif Himpunan Mahasiswa Teknik Informatika
+            beserta posisi dan divisi masing-masing. Gunakan filter di bawah untuk menelusuri per divisi.
           </p>
         </div>
       </section>

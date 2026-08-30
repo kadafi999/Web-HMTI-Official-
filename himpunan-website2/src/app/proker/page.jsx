@@ -16,28 +16,28 @@ const FALLBACK_PROJECTS = [
     id: 'dummy-1',
     title: 'Seminar Nasional Kepemimpinan',
     division_name: 'BPH',
-    background: 'Lorem ipsum dolor sit amet, consectetur adipiscing elit sed do eiusmod tempor incididunt.',
+    background: 'Seminar bertema kepemimpinan adaptif yang menghadirkan narasumber dari kalangan profesional dan akademisi, dirancang untuk menginspirasi mahasiswa menjadi pemimpin masa depan.',
     photos_urls: [],
   },
   {
     id: 'dummy-2',
     title: 'Pelatihan Desain & Media Kreatif',
     division_name: 'KOMINFO',
-    background: 'Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip.',
+    background: 'Program pelatihan intensif desain grafis dan konten digital yang membekali anggota dengan keterampilan kreatif untuk mendukung publikasi dan branding himpunan.',
     photos_urls: [],
   },
   {
     id: 'dummy-3',
     title: 'Riset Kepuasan Mahasiswa',
     division_name: 'LITBANG',
-    background: 'Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat.',
+    background: 'Kegiatan penelitian dan pengumpulan data terkait tingkat kepuasan mahasiswa terhadap layanan akademik dan fasilitas kampus guna menjadi bahan rekomendasi kebijakan.',
     photos_urls: [],
   },
   {
     id: 'dummy-4',
     title: 'Pelatihan Pengembangan Diri Anggota',
     division_name: 'PSDM',
-    background: 'Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt.',
+    background: 'Workshop pengembangan diri dan soft skill bagi anggota himpunan mencakup komunikasi efektif, manajemen waktu, dan kepemimpinan tim.',
     photos_urls: [],
   },
 ];
@@ -72,8 +72,8 @@ export default async function ProkerPage() {
           </span>
           <h1 className="mt-3 text-3xl font-extrabold text-white sm:text-4xl">Program Kerja</h1>
           <p className="mx-auto mt-4 max-w-xl text-sm text-slate-300 sm:text-base">
-            Lorem ipsum dolor sit amet, consectetur adipiscing elit sed do eiusmod tempor
-            incididunt ut labore et dolore magna aliqua.
+            Temukan seluruh kegiatan dan inisiatif yang dijalankan Himpunan Mahasiswa Teknik Informatika
+            setiap periode. Setiap program dirancang untuk memberi manfaat nyata bagi mahasiswa.
           </p>
         </div>
       </section>

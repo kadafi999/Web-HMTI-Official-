@@ -14,9 +14,9 @@ const FALLBACK_PROJECTS = {
     title: 'Seminar Nasional Kepemimpinan',
     division_name: 'BPH',
     background:
-      'Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua ut enim ad minim veniam.',
+      'Seminar Nasional Kepemimpinan merupakan program unggulan BPH yang dirancang untuk membekali mahasiswa dengan wawasan kepemimpinan adaptif. Kegiatan ini menghadirkan narasumber terpilih dari kalangan profesional, akademisi, dan praktisi industri yang telah memiliki rekam jejak kepemimpinan nyata di bidangnya masing-masing.',
     achievements:
-      'Quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat duis aute irure dolor in reprehenderit.',
+      'Seminar berhasil dihadiri lebih dari 200 peserta dari berbagai program studi. Peserta memperoleh sertifikat kehadiran dan laporan ringkas rekomendasi kepemimpinan yang dapat diterapkan dalam kegiatan organisasi kampus maupun kehidupan profesional ke depannya.',
     photos_urls: [],
   },
   'dummy-2': {
@@ -24,9 +24,9 @@ const FALLBACK_PROJECTS = {
     title: 'Pelatihan Desain & Media Kreatif',
     division_name: 'KOMINFO',
     background:
-      'In voluptate velit esse cillum dolore eu fugiat nulla pariatur excepteur sint occaecat cupidatat non proident.',
+      'Program pelatihan intensif yang diselenggarakan oleh Divisi KOMINFO untuk meningkatkan kompetensi anggota di bidang desain grafis, fotografi, dan pembuatan konten digital. Pelatihan ini menggunakan perangkat lunak industri seperti Adobe Illustrator, Canva Pro, dan CapCut untuk menghasilkan konten berkualitas tinggi.',
     achievements:
-      'Sunt in culpa qui officia deserunt mollit anim id est laborum sed ut perspiciatis unde omnis iste natus error.',
+      'Sebanyak 35 anggota aktif berhasil menyelesaikan seluruh sesi pelatihan dan menghasilkan portofolio desain mandiri. Konten yang diproduksi langsung digunakan untuk keperluan publikasi media sosial resmi himpunan, meningkatkan engagement hingga 40% dibanding periode sebelumnya.',
     photos_urls: [],
   },
   'dummy-3': {
@@ -34,9 +34,9 @@ const FALLBACK_PROJECTS = {
     title: 'Riset Kepuasan Mahasiswa',
     division_name: 'LITBANG',
     background:
-      'Sit voluptatem accusantium doloremque laudantium, totam rem aperiam eaque ipsa quae ab illo inventore veritatis.',
+      'Kegiatan penelitian yang dilaksanakan Divisi LITBANG bertujuan mengukur tingkat kepuasan mahasiswa terhadap layanan akademik, fasilitas kampus, dan kegiatan kemahasiswaan. Data dikumpulkan melalui survei daring yang disebarkan kepada seluruh mahasiswa aktif dan dianalisis menggunakan metode statistik deskriptif.',
     achievements:
-      'Et quasi architecto beatae vitae dicta sunt explicabo nemo enim ipsam voluptatem quia voluptas sit aspernatur.',
+      'Laporan hasil riset berhasil disusun dan diserahkan kepada pihak dekanat sebagai bahan masukan kebijakan. Sebanyak 3 rekomendasi prioritas diadopsi dalam program peningkatan layanan semester berikutnya, termasuk penambahan ruang diskusi dan peningkatan kecepatan internet di area kampus.',
     photos_urls: [],
   },
   'dummy-4': {
@@ -44,9 +44,9 @@ const FALLBACK_PROJECTS = {
     title: 'Pelatihan Pengembangan Diri Anggota',
     division_name: 'PSDM',
     background:
-      'Aut odit aut fugit sed quia consequuntur magni dolores eos qui ratione voluptatem sequi nesciunt neque porro quisquam.',
+      'Program Pengembangan Sumber Daya Manusia (PSDM) menyelenggarakan serangkaian workshop dan sesi coaching yang berfokus pada peningkatan soft skill anggota himpunan. Topik yang dibahas meliputi komunikasi efektif, manajemen waktu, kerja tim, dan public speaking.',
     achievements:
-      'Qui dolorem ipsum quia dolor sit amet consectetur adipisci velit sed quia non numquam eius modi tempora incidunt.',
+      'Program ini diikuti oleh seluruh anggota baru dan menghasilkan peningkatan signifikan dalam indeks kepercayaan diri anggota berdasarkan pre-test dan post-test yang dilakukan. Selain itu, terbentuk komunitas belajar (study circle) yang terus aktif berdiskusi pasca program berakhir.',
     photos_urls: [],
   },
 };
